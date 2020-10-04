@@ -1,0 +1,41 @@
+body {
+    font-family: var(--font-family-text);
+    color: var(--color-text);
+    font-weight: 200;
+  }
+
+
+.site-nav {
+    background-color: lightslategray;
+    font-family: 'Roboto', sans-serif;  
+}
+
+.layout-social {
+    font-size: 3em;
+   } 
+
+  .layout-social .layout-icon {
+    font-size: 0.5em;
+  }
+  
+  .site-header .nav-link {
+    position: relative;
+    padding-bottom: 0;
+    margin-bottom: 2px;
+  }
+
+  
+.layout-media .layout-image {
+    max-width: 200px;
+  }
+
+  .copywright {
+font-family: 'Roboto', sans-serif; 
+  }
+
+
+
+
+#navbarSupportedContent {
+  flex-grow: unset!important;
+}
